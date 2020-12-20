@@ -2,7 +2,7 @@ name: "Distill Test"
 title: "Distill Test blog"
 description: |
   Distill Test blog
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
